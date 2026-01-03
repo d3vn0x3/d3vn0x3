@@ -36,11 +36,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 📊 GitHub Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnoxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnoxe&layout=compact&theme=tokyonight" />
-</div>
 
 <hr />
 
