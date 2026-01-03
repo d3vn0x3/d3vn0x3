@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm <span style="color: #008080;">devnoxe</span> 👋</h1>
+  <p><strong>Frontend Developer | Backend Student | Spain 🇪🇸</strong></p>
 
-<!--
-**d3vn0x3/d3vn0x3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mongodb,postgres,py,js,vscode,git" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ About Me
+- 💻 **Frontend:** Passionate about building clean, responsive, and aesthetic web interfaces.
+- ⚙️ **Backend:** Currently focusing on server-side logic and database architecture.
+- 🇪🇸 Based in Spain.
+
+### 🛠️ My Stack
+
+**Web Development:**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Software Development:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnoxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnoxe&layout=compact&theme=tokyonight" />
+</div>
+
+<hr />
+
+<p>Take a look at my <a href="https://github.com/devnoxe?tab=repositories" style="text-decoration: none;"><span style="color: #008080; font-weight: bold;">projects</span></a></p>
+
+<div align="center">
+  <p>📫 Reach me at:</p>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
