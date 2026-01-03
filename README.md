@@ -42,7 +42,6 @@
   <a href="https://github.com/devnoxe?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-008080?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p><font size="2" color="grey">Click the button above to see what I've been working on</font></p>
   <br />
 </div>
 
