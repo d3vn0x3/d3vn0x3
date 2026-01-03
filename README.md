@@ -3,7 +3,7 @@
   <p><strong>Frontend Developer | Backend Student | Spain 🇪🇸</strong></p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mongodb,postgres,py,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mongodb,postgres,py,js,vscode,git" />
   </p>
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <p>📫 Reach me at:</p>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1321656593795780680">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
