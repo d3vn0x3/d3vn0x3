@@ -3,7 +3,7 @@
   <p><strong>Frontend Developer | Backend Student | Spain 🇪🇸</strong></p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mongodb,postgres,py,js,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mongodb,postgres,py,vscode,git" />
   </p>
 </div>
 
