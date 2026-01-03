@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <span style="color: #008080;">devnoxe</span> 👋</h1>
+  <h1>Hi, I'm <font face="monospace" color="#008080">devnoxe</font> 👋</h1>
   <p><strong>Frontend Developer | Backend Student | Spain 🇪🇸</strong></p>
 
   <p align="center">
@@ -35,10 +35,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
 <hr />
 
-<p>Take a look at my <a href="https://github.com/devnoxe?tab=repositories" style="text-decoration: none;"><span style="color: #008080; font-weight: bold;">projects</span></a></p>
+<div align="center">
+  <br />
+  <a href="https://github.com/devnoxe?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-008080?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p><font size="2" color="grey">Click the button above to see what I've been working on</font></p>
+  <br />
+</div>
 
 <div align="center">
   <p>📫 Reach me at:</p>
