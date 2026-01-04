@@ -39,7 +39,7 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/devnoxe?tab=repositories">
+  <a href="https://github.com/d3vn0x3?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-008080?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br />
