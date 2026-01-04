@@ -39,10 +39,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/d3vn0x3?tab=repositories">
-    <img src="Take a look here" />
-  </a>
-  
    <a href="https://d3vn0x3.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-008080?style=for-the-badge&logo=github&logoColor=white" />
   </a>
